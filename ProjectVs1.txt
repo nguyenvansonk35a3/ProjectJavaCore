@@ -1,0 +1,5 @@
+Project Java - Version1
+
+Requirement: 
+Viết chương trình quản lý sách của thư viện (chứa tối đa 15 cuốn sách), với các chức năng, thêm, sửa, xóa, tìm kiếm. 
+sử dụng: java core, mảng 1 chiềud
